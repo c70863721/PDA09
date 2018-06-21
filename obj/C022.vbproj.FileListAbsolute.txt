@@ -1,0 +1,10 @@
+H:\SFC3\Server_data_dll\C022.dll
+H:\SFC3\Server_data_dll\C022.pdb
+H:\SFC3\Server_data_dll\C022.xml
+H:\SFC3\Server_data_dll_source\C022\obj\Release\ResolveAssemblyReference.cache
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.C022.resources
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.Resources.resources
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.vbproj.GenerateResource.Cache
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.dll
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.xml
+H:\SFC3\Server_data_dll_source\C022\obj\Release\C022.pdb

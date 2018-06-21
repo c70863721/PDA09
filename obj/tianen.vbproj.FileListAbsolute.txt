@@ -1,0 +1,10 @@
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\ResolveAssemblyReference.cache
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.TIANEN.resources
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.Resources.resources
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.vbproj.GenerateResource.Cache
+C:\TMIS\tianen.dll
+C:\TMIS\tianen.pdb
+C:\TMIS\tianen.xml
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.dll
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.xml
+D:\編程\ssssssssfffffffffffccccccccc\錫膏\SXG03\obj\Release\tianen.pdb

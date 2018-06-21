@@ -1,0 +1,17 @@
+..\..\Server_data_dll\C022.dll
+..\..\Server_data_dll\C022.pdb
+..\..\Server_data_dll\C022.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\C022.C022.resources
+obj\Debug\C022.Resources.resources
+obj\Debug\C022.vbproj.GenerateResource.Cache
+obj\Debug\C022.dll
+obj\Debug\C022.xml
+obj\Debug\C022.pdb
+obj\Release\C022.C022.resources
+obj\Release\C022.Resources.resources
+obj\Release\C022.vbproj.GenerateResource.Cache
+obj\Release\C022.dll
+obj\Release\C022.xml
+obj\Release\C022.pdb
+obj\Release\ResolveAssemblyReference.cache

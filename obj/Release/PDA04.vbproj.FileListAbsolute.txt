@@ -1,0 +1,25 @@
+C:\temp\PDA04.dll
+C:\temp\PDA04.pdb
+C:\temp\PDA04.xml
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.PDA04.resources
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.Resources.resources
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.vbproj.GenerateResource.Cache
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.dll
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.xml
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.12.21.02\obj\Release\PDA04.pdb
+C:\TMIS_DLL\PDA04.dll
+C:\TMIS_DLL\PDA04.pdb
+C:\TMIS_DLL\PDA04.xml
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.PDA04.resources
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.Resources.resources
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.vbproj.GenerateResource.Cache
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.dll
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.xml
+D:\走向开发路\新建文件夹 (2)\PDA04-2017.1.10.9\obj\Release\PDA04.pdb
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.vbprojResolveAssemblyReference.cache
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.PDA04.resources
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.Resources.resources
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.vbproj.GenerateResource.Cache
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.dll
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.xml
+D:\ssssssssfffffffffffccccccccc\PDA04-2018.1.1.1\obj\Release\PDA04.pdb

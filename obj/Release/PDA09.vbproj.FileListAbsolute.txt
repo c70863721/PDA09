@@ -1,0 +1,10 @@
+D:\source_cn\PDA09\obj\Release\PDA09.vbprojResolveAssemblyReference.cache
+D:\source_cn\PDA09\obj\Release\PDA09.PDA09.resources
+D:\source_cn\PDA09\obj\Release\PDA09.Resources.resources
+D:\source_cn\PDA09\obj\Release\PDA09.vbproj.GenerateResource.Cache
+D:\Server_data_dll\PDA09.dll
+D:\Server_data_dll\PDA09.pdb
+D:\Server_data_dll\PDA09.xml
+D:\source_cn\PDA09\obj\Release\PDA09.dll
+D:\source_cn\PDA09\obj\Release\PDA09.xml
+D:\source_cn\PDA09\obj\Release\PDA09.pdb

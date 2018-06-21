@@ -1,0 +1,15 @@
+C:\temp\PDA02.dll
+C:\temp\PDA02.pdb
+C:\temp\PDA02.xml
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.Resources.resources
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.vbproj.GenerateResource.Cache
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.dll
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.xml
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.pdb
+C:\TMIS_DLL\PDA02.dll
+C:\TMIS_DLL\PDA02.pdb
+C:\TMIS_DLL\PDA02.xml
+D:\Users\mingyuan-wu\Desktop\vs-s\PDA02\obj\Debug\PDA02.PDA02.resources
+C:\TMIS_40dell\PDA02.dll
+C:\TMIS_40dell\PDA02.pdb
+C:\TMIS_40dell\PDA02.xml

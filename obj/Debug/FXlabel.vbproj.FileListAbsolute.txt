@@ -1,0 +1,12 @@
+E:\Server_data_dll\FXlabel.dll
+E:\Server_data_dll\FXlabel.pdb
+E:\Server_data_dll\FXlabel.xml
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.FXlabel.resources
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.Resources.resources
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.vbproj.GenerateResource.Cache
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.dll
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.xml
+E:\rufei\FXLabel-2017.5.9.3\obj\Debug\FXlabel.pdb
+C:\temp\FXlabel.dll
+C:\temp\FXlabel.pdb
+C:\temp\FXlabel.xml
